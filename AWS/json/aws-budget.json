@@ -1,6 +1,6 @@
 {
     "BudgetLimit": {
-        "Amount": "100",
+        "Amount": "5",
         "Unit": "USD"
     },
     "BudgetName": "Crudder Budget",
